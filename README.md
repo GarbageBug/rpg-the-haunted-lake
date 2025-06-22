@@ -7,4 +7,4 @@ The lake to the SW of Drenathor is rumoured to be haunted due to no boats return
 Travel to the lake Creature Encounter hard = to party
 at the lake bandit encounter medium = to party
 
-Investigation of the lake reveals a truly haunted fishing village with only one living being; a cleric of 
+Investigation of the lake reveals a truly haunted fishing village with only one living being; a cleric of Chauntea trying their best to sort out the town besieged by phantoms and the undead brought about the followers of Nerull
