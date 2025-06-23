@@ -1,0 +1,16 @@
+Ember = Rando Potion
+          1 Your skin begins to harden at an alarming rate. You are turned to stone for 1d4 hours.
+          2 You lose your shadow permanently.
+        Loot =
+          a petrified squirrel inlaid with copper (25 gp)
+
+Mononoke = Rando Potion
+            1 You gain 1d10 hit points each round for 1d4 rounds.
+           Loot = 
+            a copper pendant inlaid with ornate gold scrollwork (25 gp) 
+
+Fili = Rando Potion
+        1 All of your inner thoughts are audibly heard for 1d4 hours.
+
+Thalion = Rando potion
+            1 You switch to the opposite gender.
